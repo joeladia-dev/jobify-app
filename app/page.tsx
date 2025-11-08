@@ -15,11 +15,11 @@ export default function Home() {
             job <span className='text-primary'>tracking</span> app
           </h1>
           <p className='leading-loose max-w-md mt-4 '>
-            "Welcome to Jobify – your personal job tracking companion! Stay
+            Welcome to Jobify – your personal job tracking companion! Stay
             organized, track your applications, and never miss an opportunity.
             Simplify your job search and take control of your career journey
             with ease. With Jobify, you can monitor progress and make informed
-            decisions every step of the way."
+            decisions every step of the way.
           </p>
           <Button asChild className='mt-4'>
             <Link href='/add-job'>Get Started</Link>
